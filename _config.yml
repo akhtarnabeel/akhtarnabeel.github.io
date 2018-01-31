@@ -5,13 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Nabeel Akhtar"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ author:
   avatar           : "figures/photo.jpeg"
   bio              : "Ph.D. candidate at Boston University"
   location         : "Boston, MA, USA"
-  email            :
+  email            : "nabeel@bu.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
