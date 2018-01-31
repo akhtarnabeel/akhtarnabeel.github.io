@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Nabeel Akhtar's site"
 title_separator          : "-"
 name                     : "Nabeel Akhtar"
 description              : "An amazing website."
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Nabeel Akhtar"
-  avatar           : "figures/picture.jpeg"
+  avatar           : "https://github.com/akhtarnabeel/akhtarnabeel.github.io/raw/master/figures/picture.jpg"
   bio              : "Ph.D. candidate at Boston University"
   location         : "Boston, MA, USA"
   email            : "nabeel@bu.edu"
