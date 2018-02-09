@@ -1,0 +1,94 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+<style>
+  .bottom-three {
+     margin-bottom: 1.5cm;
+   }
+  .bottom-small {
+     margin-bottom: 1cm;
+   }
+</style>
+</head>
+
+<body class="page">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+
+	<p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/study2.png" alt="Education" width="70" height="70"></p>
+	<p align="center"><b>EDUCATION</b></p>
+    <p align="center">&#8226 I am doing <strong>PhD</strong> in Computer Networks at Boston University, supervised by <a href="https://sites.bu.edu/matta/" target="_blank">Prof. Ibrahim Matta</a>.</p>
+    <p align="center">&#8226 I received MS in <strong>Computer Science and Engineering</strong> from Koc University, Istanbul, Turkey.</p>
+    <p align="center" class="bottom-three">&#8226 I received BS in <strong>Computer Science</strong> from LUMS, Pakistan.</p>
+
+
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
+	<p align="center"><b>WORK EXPERIANCE</b></p>
+    <p align="center">&#8226 <strong>Research Intern</strong> at <a href="https://www.akamai.com/" target="_blank">Akamai Technologies</a>, Cambridge, USA in <strong>Summer 2015</strong> and <strong>Summer 2016</strong>.</p>
+    <p align="center">&#8226 <strong>Visiting Researcher</strong> at <strong><a href="https://create-net.fbk.eu/en/" target="_blank">Create-Net</a></strong>, Italy in <strong>Spring 2016</strong>.</p>
+    <p align="center" class="bottom-three">&#8226 <strong>Visiting Researcher</strong> at Koc University, Istanbul in <strong>Summer 2010</strong>.</p>
+
+    
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/computer2.png" alt="Computer Skills" width="80" height="80"></p>
+    <p align="center">&#8226 Give me the <strong>STL</strong> library and a <strong>VCS</strong> repository on which to store the <strong>C++</strong> code, and I shall move the world. Or was it about levers? &#12484;</p>
+    <p align="center">&#8226 I use <strong>Matlab</strong> and <strong>Python</strong> for fast prototyping and testing.</p>
+    <p align="center">&#8226 I cannot sleep at night if I have not committed my code or<br>if I have not done enough <strong>unit tests</strong>.</p>
+    <p align="center" class="bottom-three">&#8226 I <a href="http://goo.gl/XbK9qN" target="_blank">build</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/" target="_blank">awesome</a> <a href="http://davischallenge.org" target="_blank">websites</a> using <strong>Javascript</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, and <strong>D3.js</strong>.</p>
+
+    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/talk.png" alt="Languages" width="70" height="70"></p>
+    <p align="center">&#8226 El <strong>català</strong> és la meva llengua materna.</p>
+    <p align="center">&#8226 Hablo <strong>español</strong> como lengua materna.</p>
+    <p align="center">&#8226 My <strong>English</strong> is proficient.</p>
+    <p align="center">&#8226 Je parle un peu <strong>français</strong>.</p>
+    <p align="center" class="bottom-three">&#8226 Ich beginne <strong>Deutsch</strong> zu lernen.</p>
+    
+    
+    
+    {{ content }}
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
