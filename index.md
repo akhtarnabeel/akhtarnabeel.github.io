@@ -17,6 +17,10 @@ My area of interests are Computer Networks, Network Virtualization, Network Soft
 
 ## Latest News ##
 
+- **February 9, 2017:** Our paper "EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure" got accepted at IEEE CNERT, co-located with IEEE INFOCOM 2018. 
+
+- **February 8, 2017:** Our **demo** paper "EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure" got accepted at IEEE INFOCOM 2018. 
+
 - **November 3-4, 2017:** I gave tutorial on **"Managing a Virtual Network Function using SDN and Control Theory"** at GENI Regional Workshop (GRW), University of Oregon, USA.
 
 - **October 16, 2017:** Presented our work **"Using a Control Theoretic Load Balancer for Efficient Attack Traffic Analysis and Defense on Virtualized Infrastructure"**  (poster) at
