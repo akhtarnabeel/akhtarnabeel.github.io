@@ -7,6 +7,11 @@ modified: 8-7-2014
 comments: false
 ---
 
+
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. “EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”. IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Honolulu, HI, USA, April 2018.
+
+- **DEMO/POSTER:** Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. “EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”. IEEE INFOCOM, Honolulu, HI, USA, April 2018.
+
 - Zhongliang Zhao, Eryk Jerzy Schiller, Eirini Kalogeiton, Torsten Braun, Stiller Burkhard, Mevlut Turker Garip, Joshua Joy, Mario Gerla, Nabeel Akhtar, Ibrahim Matta. “Autonomic Communications in Software-Driven Networks”. IEEE Journal on Selected Areas in Communications (JSAC), 2017. (pdf) 
 
 
