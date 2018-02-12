@@ -34,20 +34,20 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Other Services ##
 
-#### As Reviewer:
-- Reviewer for journal IEEE Transactions on Intelligent Transportation Systems (ITS) 2018
-- Reviewer for workshop IEEE CNERT 2018
-- Reviewer for conference IEEE INFOCOM 2017 
-- Reviewer for conference IEEE NFV-SDN 2017
-- Reviewer for journal Future Generation Computer Systems 2017
-- Reviewer for journal IEEE Communications Letters 2017
-- Reviewer for ITC 29 Soft5 Workshop 2017
-- Reviewer for journal IEEE Intelligent Transportation Systems Transactions (ITST) 2017
-- Reviewer for journal IEEE Transactions on Mobile Computing (TMC) 2017
-- Reviewer for journal IEEE Communications Letters 2016
-- Reviewer for IEEE International Conference on Network Protocols (ICNP) 2014
-- Reviewer for IEEE International Conference on ITS Telecommunications (ITST) 2012
-- Reviewer for IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2012
+#### As Reviewer for :
+- Journal IEEE Transactions on Intelligent Transportation Systems (ITS) 2018
+- Workshop IEEE CNERT 2018
+- Conference IEEE INFOCOM 2017 
+- Conference IEEE NFV-SDN 2017
+- Journal Future Generation Computer Systems 2017
+- Journal IEEE Communications Letters 2017
+- ITC 29 Soft5 Workshop 2017
+- Journal IEEE Intelligent Transportation Systems Transactions (ITST) 2017
+- Journal IEEE Transactions on Mobile Computing (TMC) 2017
+- Journal IEEE Communications Letters 2016
+- IEEE International Conference on Network Protocols (ICNP) 2014
+- IEEE International Conference on ITS Telecommunications (ITST) 2012
+- IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2012
 
 #### As Organizer:
 - Currently organizing Networking Reading Group (NRG) at Boston University
@@ -55,3 +55,4 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 #### Others:
 - **October 28, 2016:** GENI [Webinar](http://www.cs.unc.edu/Research/geni/geniEdu/v06-VNF-SDN-Ctl.html) on "Managing a Virtual Network Function using SDN and Control Theory"
+
