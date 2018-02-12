@@ -7,6 +7,7 @@ modified: 8-7-2014
 comments: false
 ---
 
+== <a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>.
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. “EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”. IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Honolulu, Hawaii, USA, April 2018.
 
@@ -65,4 +66,4 @@ MSc thesis (pdf)
 Turk Telekom Group R & D University Relation Workshop, Istanbul, Turkey. Dec. 2011 
 
 
-Until I update my publications, you can browse my <a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
