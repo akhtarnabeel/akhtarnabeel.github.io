@@ -1,0 +1,12 @@
+@INPROCEEDINGS{Akhtar01,
+		author={N. Akhtar and I. Matta and Y. Wang}, 
+		booktitle={NOMS 2016 - 2016 IEEE/IFIP Network Operations and Management Symposium}, 
+		title={Managing NFV using SDN and control theory}, 
+		year={2016}, 
+		volume={}, 
+		number={}, 
+		pages={1005-1006},
+		keywords={Computer architecture;Control systems;Control theory;Intrusion detection;Load management;Monitoring;Round robin}, 
+		doi={10.1109/NOMS.2016.7502945}, 
+		ISSN={},
+		month={April},}
