@@ -11,15 +11,10 @@ comments: false
 
 #### Conference and Journal Papers
 
-- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. <br>
-  **“EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”** <br>
-  IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Honolulu, Hawaii, USA, April 2018. <br>
-  [BibTeX] [PDF] 
-
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
-  *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018* <br>
+  *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
   [PDF][Bibtex][\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
 
 
