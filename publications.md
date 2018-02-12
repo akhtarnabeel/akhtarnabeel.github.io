@@ -9,9 +9,42 @@ comments: false
 
 #### You can also browse my <a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>. ####
 
+<<<<<<< HEAD
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. <br>
+  **“EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”** <br>
+  IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Honolulu, Hawaii, USA, April 2018. <br>
+  [BibTeX] [PDF] 
+
+	<details>
+	<summary>[BibTeX]</summary>
+
+	```
+	@INPROCEEDINGS{7502945,
+		author={N. Akhtar and I. Matta and Y. Wang}, 
+		booktitle={NOMS 2016 - 2016 IEEE/IFIP Network Operations and Management Symposium}, 
+		title={Managing NFV using SDN and control theory}, 
+		year={2016}, 
+		volume={}, 
+		number={}, 
+		pages={1005-1006},
+		keywords={Computer architecture;Control systems;Control theory;Intrusion detection;Load management;Monitoring;Round robin}, 
+		doi={10.1109/NOMS.2016.7502945}, 
+		ISSN={},
+		month={April},}
+	```
+	
+	</details>
+	<br>
+	
+=======
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. “EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”. IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Honolulu, Hawaii, USA, April 2018.
+>>>>>>> origin/master
 
 - **DEMO/POSTER:** Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang. “EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure”. IEEE INFOCOM, Honolulu, Hawaii, USA, April 2018.
+
+
+
+
 
 - Zhongliang Zhao, Eryk Jerzy Schiller, Eirini Kalogeiton, Torsten Braun, Stiller Burkhard, Mevlut Turker Garip, Joshua Joy, Mario Gerla, Nabeel Akhtar, Ibrahim Matta. “Autonomic Communications in Software-Driven Networks”. IEEE Journal on Selected Areas in Communications (JSAC), 2017. (pdf) 
 
