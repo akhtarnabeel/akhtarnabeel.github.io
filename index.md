@@ -11,7 +11,7 @@ I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/c
 <br />
 <br />
 At BU, I am working with [Prof. Ibrahim Matta](http://sites.bu.edu/matta/). 
-My area of interests are Computer Networks, Network Virtualization, Network Softwarization, Future Internet Architectures and Network Optimization.
+My areas of interests are Computer Networks, Network Virtualization, Network Softwarization, Future Internet Architectures and Network Optimization.
 <br />
 <br />
 
