@@ -6,9 +6,9 @@ modified: 8-7-2014
 comments: false
 ---
 
-### <a href="http://cs-people.bu.edu/nabeel/cv.pdf" target="_blank">You can download my CV in PDF</a> ###
+### [You can download my CV in PDF](http://cs-people.bu.edu/nabeel/cv.pdf)
 
-## Courses 
+## Teaching  
 
 - Boston University Sep. 2013 - present 
   Department of Computer Science
