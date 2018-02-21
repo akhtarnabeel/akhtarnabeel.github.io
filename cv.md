@@ -33,7 +33,7 @@ comments: false
 
 ## Other Services ##
 
-#### As Reviewer for :
+#### As Reviewer for:
 - Journal IEEE Transactions on Intelligent Transportation Systems (ITS) 2018
 - Workshop IEEE CNERT 2018
 - Conference IEEE INFOCOM 2017 
