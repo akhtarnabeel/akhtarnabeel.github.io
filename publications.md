@@ -15,19 +15,19 @@ comments: false
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
-  [PDF][Bibtex][\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
+  [\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
 
 
 - Zhongliang Zhao, Eryk Jerzy Schiller, Eirini Kalogeiton, Torsten Braun, Stiller Burkhard, Mevlut Turker Garip, Joshua Joy, Mario Gerla, Nabeel Akhtar, Ibrahim Matta <br>
   **Autonomic Communications in Software-Driven Networks**  <br>
   *IEEE Journal on Selected Areas in Communications (JSAC), 2017* <br>
-  [PDF][Bibtex]
+  [\[PDF\]](../papers/JSAC2017.pdf)[\[Bibtex\]](../papers/bib/JSAC2017.txt)
   
 
 - Nabeel Akhtar, Ibrahim Matta and Yuefeng Wang <br>
   **Managing NFV using SDN and Control Theory** <br>
   *IEEE/IFIP International Workshop on Management of the Future Internet (ManFI 2016), co-located with IEEE NOMS 2016, Istanbul, Turkey, April 2016* <br>
-  [\[PDF\]](/papers/NOMS2016.pdf) [\[Bibtex\]](/papers/bib/NOMS2016.txt) 
+  [\[PDF\]](../papers/NOMS2016.pdf) [\[Bibtex\]](/papers/bib/NOMS2016.txt) 
 
 
 - Yuefeng Wang, Ibrahim Matta and Nabeel Akhtar <br>
