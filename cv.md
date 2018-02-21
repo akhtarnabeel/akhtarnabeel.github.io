@@ -8,7 +8,7 @@ comments: false
 
 ---
 
-### [CV in PDF](../papers/cv.pdf)
+### [CV in PDF(last updated Nov. 2017)](../papers/cv.pdf)
 
 ---
 
