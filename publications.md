@@ -45,7 +45,7 @@ comments: false
 
 - Yuefeng Wang, Nabeel Akhtar and Ibrahim Matta <br>
   **Programming Routing Policies for Video Traffic**  <br>
-  *IEEE CNERT 2014, co-located with ICNP 2014, Raleigh, NC, USA. October 2014* <br>
+  *IEEE ICNP International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Raleigh, NC, USA. October 2014* <br>
   [\[PDF\]](../papers/ICNP-2014.pdf) [\[Bibtex\]](/papers/bib/ICNP-2014.txt)
 
 
