@@ -29,7 +29,7 @@ comments: false
 
 - Nabeel Akhtar, Ibrahim Matta and Yuefeng Wang <br>
   **Managing NFV using SDN and Control Theory** <br>
-  *IEEE/IFIP International Workshop on Management of the Future Internet (ManFI 2016), co-located with IEEE NOMS 2016, Istanbul, Turkey, April 2016* <br>
+  *IEEE/IFIP NOMS International Workshop on Management of the Future Internet (ManFI) 2016, Istanbul, Turkey, April 2016* <br>
   [\[PDF\]](../papers/NOMS2016.pdf) [\[Bibtex\]](/papers/bib/NOMS2016.txt) 
 
 
@@ -40,7 +40,7 @@ comments: false
 
 - N. Akhtar, S. Coleri Ergen, and O. Ozkasap <br>
   **Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation** <br>
-  *IEEE Transactions on Vehicular Technology, vol. 64, no. 1, pp. 248-262, January 2015* <br>
+  *IEEE Transactions on Vehicular Technology (TVT), vol. 64, no. 1, pp. 248-262, January 2015* <br>
   [\[PDF\]](../papers/TVT.pdf) [\[Bibtex\]](/papers/bib/TVT.txt)
 
 - Yuefeng Wang, Nabeel Akhtar and Ibrahim Matta <br>
