@@ -32,29 +32,6 @@ Lahore University of Management Science (LUMS), Lahore, Pakistan \\
 	- Advisor: Prof. Fareed Zaffer
 
 ---
-
-## Teaching  
-
-- Boston University Sep. 2013 - present 
-  Department of Computer Science
-	- CS 100 Introduction to Computing - Fall 2013
-	- CS 105 Introduction to Databases and Data Mining - Fall 2015
-	- CS 455/655 Computer Networks - Fall 2016
-	- CS 210 Computer Systems - Spring 2018
-
-- Koc University Aug. 2011 - July 2013 
-  Department of Computer Science and Engineering
-	- ENG 200 Probability for Engineers - Spring 2013
-	- COMP 416 Computer Networks - Fall 2012
-	- COMP 202 Data Structures and Algorithm - Spring 2012
-	- COMP 132 Advanced Programming - Fall 2011
-
- - Lahore University of Management Science Aug. 2010- Jun. 2011 
-   Department of Computer Science
-	- CS 212 Computational Problem Solving - Spring 2011
-	- CS 371/ CMPE 371 Computer Networks - Fall ’2010’
-
----
 ## Work Experience
 
 - **Research Intern: Akamai Technologies**     – Summer 2016 
@@ -88,6 +65,29 @@ Lahore University of Management Science (LUMS), Lahore, Pakistan \\
 	- IT Department
 	- Project: Worked on the second biggest database system in Pakistan, ‘‘Land Record Management Information System’’ (LRMIS)
 	- Worked as software quality assurance consultant
+
+---
+
+## Teaching  
+
+- Boston University Sep. 2013 - present 
+  Department of Computer Science
+	- CS 100 Introduction to Computing - Fall 2013
+	- CS 105 Introduction to Databases and Data Mining - Fall 2015
+	- CS 455/655 Computer Networks - Fall 2016
+	- CS 210 Computer Systems - Spring 2018
+
+- Koc University Aug. 2011 - July 2013 
+  Department of Computer Science and Engineering
+	- ENG 200 Probability for Engineers - Spring 2013
+	- COMP 416 Computer Networks - Fall 2012
+	- COMP 202 Data Structures and Algorithm - Spring 2012
+	- COMP 132 Advanced Programming - Fall 2011
+
+ - Lahore University of Management Science Aug. 2010- Jun. 2011 
+   Department of Computer Science
+	- CS 212 Computational Problem Solving - Spring 2011
+	- CS 371/ CMPE 371 Computer Networks - Fall ’2010’
 
 ---
 
