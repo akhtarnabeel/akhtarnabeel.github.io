@@ -87,7 +87,7 @@ Lahore University of Management Science (LUMS), Lahore, Pakistan \\
  - Lahore University of Management Science Aug. 2010- Jun. 2011 
    Department of Computer Science
 	- CS 212 Computational Problem Solving - Spring 2011
-	- CS 371/ CMPE 371 Computer Networks - Fall ’2010’
+	- CS 371/ CMPE 371 Computer Networks - Fall 2010
 
 ---
 
