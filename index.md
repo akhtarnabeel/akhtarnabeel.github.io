@@ -17,6 +17,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **March 9, 2018:** Our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** got accepted at IEEE Conference on Network Softwarization (NetSoft) 2018, Montreal, Canada.
+
 - **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT) 2018, Hawaii, USA. 
 
 - **February 8, 2018:** Our **demo** paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at IEEE INFOCOM 2018, Hawaii, USA. 
