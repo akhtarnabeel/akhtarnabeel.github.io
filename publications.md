@@ -14,6 +14,9 @@ comments: false
 ---
 ### Conference and Journal Papers
 
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
+  **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
+  *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., April 2018* <br>
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
