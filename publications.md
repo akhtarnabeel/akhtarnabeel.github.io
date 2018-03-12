@@ -41,7 +41,7 @@ comments: false
   *IEEE/IFIP Network Operations and Management Symposium (NOMS 2016), Istanbul, Turkey, April 2016* <br>
   [\[PDF\]](../papers/NOMS_RINA.pdf) [\[Bibtex\]](/papers/bib/NOMS_RINA.txt)
 
-- N. Akhtar, S. Coleri Ergen, and O. Ozkasap <br>
+- Nabeel Akhtar, Sinem Coleri Ergen, and Oznur Ozkasap <br>
   **Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation** <br>
   *IEEE Transactions on Vehicular Technology (TVT), vol. 64, no. 1, pp. 248-262, January 2015* <br>
   [\[PDF\]](../papers/TVT.pdf) [\[Bibtex\]](/papers/bib/TVT.txt)
@@ -58,13 +58,13 @@ comments: false
   [\[PDF\]](../papers/GREE2014.pdf) [\[Bibtex\]](/papers/bib/GREE2014.txt)
 
 
-- N. Akhtar, O. Ozkasap, and S. Coleri Ergen <br>
+- Nabeel Akhtar, Oznur Ozkasap, and Sinem Coleri Ergen <br>
   **Analysis of VANET topology characteristics via realistic vehicle mobility and communication channel models**  <br>
   *IEEE Wireless Communication and Networking Conference (WCNC 2013), Shanghai, China, April 2013* <br>
   [\[PDF\]](../papers/WCNC2013.pdf) [\[Bibtex\]](/papers/bib/WCNC2013.txt)
 
 
-- N. Akhtar, S. Coleri Ergen, and O. Ozkasap <br>
+- Nabeel Akhtar, Sinem Coleri Ergen, and Oznur Ozkasap <br>
   **Analysis of Distributed Algorithms for Density Estimation in VANETs**  <br>
   *IEEE Vehicular Networking Conference (VNC) (VNC 2012), Seoul, Korea, Nov. 2012* <br>
   [\[PDF\]](../papers/VNC2012.pdf) [\[Bibtex\]](/papers/bib/VNC2012.txt)
