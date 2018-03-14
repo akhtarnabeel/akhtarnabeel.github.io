@@ -14,4 +14,6 @@ testing colors in Github
 - this will be highlighted in red
 ```
 
+This is ```diff + in-line``` coloring. 
+
 we have won ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `FIRST PRICE` in a contest
