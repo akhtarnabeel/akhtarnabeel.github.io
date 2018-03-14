@@ -17,6 +17,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **March 14, 2018:** We won **FIRST PRICE** at [GENI Experimenter Contest 2018](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). We will be giving project DEMO of our work at IEEE INFOCOM 2018, Hawaii, USA.  
+
 - **March 9, 2018:** Our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** got accepted at IEEE Conference on Network Softwarization (NetSoft) 2018, Montreal, Canada.
 
 - **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT) 2018, Hawaii, USA. 
