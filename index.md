@@ -17,7 +17,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
-- **March 14, 2018:** We won **FIRST PRICE** at [GENI Experimenter Contest 2018](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Cash price $2000, and travel grant $4000. We will be giving project DEMO of our work at **IEEE INFOCOM 2018**, Hawaii, USA.  
+- **March 14, 2018:** We won ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**FIRST PRICE**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) at [GENI Experimenter Contest 2018](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Cash price $2000, and travel grant $4000. We will be giving project DEMO of our work at **IEEE INFOCOM 2018**, Hawaii, USA.  
 
 - **March 9, 2018:** Our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** got accepted at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
 
@@ -32,7 +32,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **October 10, 2017:** Presenting our work **On Balancing Load to Quickly Detect and Stop Attack Traffic** (poster/demo) at IEEE Network Innovators Community Event Workshop (**IEEE NICE 2017**), co-located with IEEE ICNP 2017, Toronto, Canada
 
-- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). **(Impact Factor 8.08)**
+- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**(Impact Factor 8.08)**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
 
 
 
