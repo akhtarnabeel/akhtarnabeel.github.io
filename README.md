@@ -8,7 +8,7 @@ jekyll serve --watch --port 5000
 ```
 
 
-testing colors in Github
+## testing colors in Github
 ```diff
 + this will be highlighted in green
 - this will be highlighted in red
@@ -17,3 +17,30 @@ testing colors in Github
 This is ```diff + in-line``` coloring. 
 
 we have won ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `FIRST PRICE` in a contest
+
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
+var s = "JavaScript syntax highlighting";
+alert(s);
+
+s = "Python syntax highlighting"
+print s
+
+No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
+But let's throw in a <b>tag</b>.
+
+
