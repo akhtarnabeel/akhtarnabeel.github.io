@@ -32,7 +32,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **October 10, 2017:** Presenting our work **On Balancing Load to Quickly Detect and Stop Attack Traffic** (poster/demo) at IEEE Network Innovators Community Event Workshop (**IEEE NICE 2017**), co-located with IEEE ICNP 2017, Toronto, Canada
 
-- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**(Impact Factor 8.08)**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**```Impact Factor 8.08```**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
 
 
 
