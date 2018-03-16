@@ -17,7 +17,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
-- **March 14, 2018:** We won ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRICE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) at [GENI Experimenter Contest 2018](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth $6000. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
+- **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRICE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [EL-SEC](https://github.com/akhtarnabeel/ELSEC) at [GENI Experimenter Contest 2018](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth $6000. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
 
 - **March 9, 2018:** Our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** got accepted at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
 
