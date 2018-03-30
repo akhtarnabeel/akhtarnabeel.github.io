@@ -1,0 +1,6 @@
+@INPROCEEDINGS{ELSEC, 
+author={N. Akhtar and I. Matta and A. Raza and Y. Wang}, 
+booktitle={2018 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
+title={{EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure}}, 
+year={20178}, 
+month={April},}
