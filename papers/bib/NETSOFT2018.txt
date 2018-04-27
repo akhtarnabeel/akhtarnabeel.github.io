@@ -1,0 +1,6 @@
+@INPROCEEDINGS{NFV5G, 
+author={N. Akhtar and I. Matta and A. Raza and L. Goratti and T. Braun and F. Esposito}, 
+booktitle={2018 IEEE Conference on Network Softwarization (NETSOFT)}, 
+title={{Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks}}, 
+year={2018}, 
+month={June},}
