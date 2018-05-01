@@ -1,6 +1,6 @@
 # Nabeel Akhtar's site
 
-I took the template of site from http://jponttuset.cat/ [github link](https://github.com/jponttuset/jponttuset.github.io) and **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
+I took the template of site from http://jponttuset.cat/ ([github link](https://github.com/jponttuset/jponttuset.github.io)) and **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
 
 ## To run it locally
 ```
