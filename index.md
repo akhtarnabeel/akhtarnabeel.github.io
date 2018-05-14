@@ -17,6 +17,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **May 14-18, 2018:** I am giving advance [NFV/SDN tutorial](http://voip.netlab.uky.edu/grw2018ky/summercamp.html) on GENI testbed at **GENI Regional Workshop (GRW 2018)** and Summer Camp at Lexington, Kentucky.
+
 - **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRIZE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
 
 - **March 9, 2018:** Our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** got accepted at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
@@ -25,7 +27,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **February 8, 2018:** Our **demo** paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM 2018**, Hawaii, USA. 
 
-- **November 3-4, 2017:** I am giving tutorial on **Managing a Virtual Network Function using SDN and Control Theory** at GENI Regional Workshop (**GRW**), University of Oregon, USA.
+- **November 3-4, 2017:** I am giving tutorial on **Managing a Virtual Network Function using SDN and Control Theory** at **GENI Regional Workshop (GRW 2017)**, University of Oregon, USA.
 
 - **October 16, 2017:** Presenting our work **Using a Control Theoretic Load Balancer for Efficient Attack Traffic Analysis and Defense on Virtualized Infrastructure**  (poster) at
  The 2nd Symposium on the COntrol of NEtwork Systems (**SCONES 2017**) , associated with IEEE Transactions on Control of Network Systems (TCNS), Boston, USA, Oct. 2017.
