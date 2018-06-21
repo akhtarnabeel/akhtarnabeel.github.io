@@ -108,7 +108,7 @@ comments: false
 - Yuefeng Wang, Ibrahim Matta and Nabeel Akhtar <br> 
   **Application-Driven Network Management with ProtoRINA** <br> 
   Technical Report BUCS-TR-2015-003, Boston University, 2015 <br> 
-  [\[PDF\]\(http://www.cs.bu.edu/techreports/pdf/2015-003-protorina.pdf)
+  [\[PDF\]](http://www.cs.bu.edu/techreports/pdf/2015-003-protorina.pdf)
 
 - Nabeel Akhtar, Ibrahim Matta and Yuefeng Wang  <br> 
   **Managing NFV using SDN and Control Theory**  <br> 
