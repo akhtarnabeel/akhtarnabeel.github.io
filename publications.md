@@ -96,7 +96,7 @@ comments: false
 - Nabeel Akhtar, Ibrahim Matta and Yuefeng Wang <br> 
   **Managing NFV using SDN and Control Theory**  <br> 
   *IEEE Network Innovators Community Event Workshop (NICE 2015), co-located with IEEE ICNP 2015, San Francisco, USA, Nov. 2015* <br> 
-  [\[PDF\]](../papers/NICEposter.pdf)
+  [\[PDF\]](../papers/NICEPoster.pdf)
   
 - N. Akhtar, O. Ozkasap, and S. Coleri Ergen <br> 
   **Realistic Mobility and Channel Modeling in Vehicular ad-hoc Networks** <br> 
