@@ -16,11 +16,13 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **June 28, 2018:** I will be presenting our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
+
+- **June 25, 2018:** I will be chairing "Design, Management and Orchestration of Edge Computing and Tactile Internet" session at **[Smart network Technologies and Edge computing for the Tactile Internet (STET 2018)](http://www.cs.slu.edu/stet2018/)**, Montreal, Canada.
+
 - **May 14-18, 2018:** I am giving advance [NFV/SDN tutorial](http://voip.netlab.uky.edu/grw2018ky/summercamp.html) on GENI testbed at **GENI Regional Workshop (GRW 2018)** and Summer Camp at Lexington, Kentucky, USA.
 
 - **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRIZE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
-
-- **March 9, 2018:** Our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** got accepted at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
 
 - **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM** International Workshop on Computer and Networking Experimental Research Using Testbeds (**CNERT**) 2018, Hawaii, USA. 
 
