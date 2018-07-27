@@ -16,7 +16,7 @@ comments: false
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
-  *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., April 2018* <br>
+  *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., June 2018* <br>
   [\[PDF\]](../papers/NETSOFT2018.pdf)[\[Bibtex\]](../papers/bib/NETSOFT2018.txt)
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
