@@ -22,9 +22,9 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **May 14-18, 2018:** I am giving advance [NFV/SDN tutorial](http://voip.netlab.uky.edu/grw2018ky/summercamp.html) on GENI testbed at **GENI Regional Workshop (GRW 2018)** and Summer Camp at Lexington, Kentucky, USA.
 
-<!--- - **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRIZE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
+- **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRIZE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
 
-- **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM** International Workshop on Computer and Networking Experimental Research Using Testbeds (**CNERT**) 2018, Hawaii, USA. 
+<!--- - **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM** International Workshop on Computer and Networking Experimental Research Using Testbeds (**CNERT**) 2018, Hawaii, USA. 
 
 - **February 8, 2018:** Our **demo** paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM 2018**, Hawaii, USA. 
 --->
