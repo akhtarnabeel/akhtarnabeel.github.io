@@ -19,11 +19,11 @@ comments: false
   *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., June 2018* <br>
   [\[PDF\]](../papers/NETSOFT2018.pdf)[\[Bibtex\]](../papers/bib/NETSOFT2018.txt)
 
-- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
+<!--- - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
     [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
-
+--->
 
 - Zhongliang Zhao, Eryk Jerzy Schiller, Eirini Kalogeiton, Torsten Braun, Stiller Burkhard, Mevlut Turker Garip, Joshua Joy, Mario Gerla, Nabeel Akhtar, Ibrahim Matta <br>
   **Autonomic Communications in Software-Driven Networks**  <br>
@@ -73,11 +73,11 @@ comments: false
 --- 
 ### Demo and Posters
 
-- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
+<!--- - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **Demo Abstract: EL-SEC:ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE International Conference on Computer Communications (INFOCOM), 2018* <br>
   [\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
-
+--->
 - Nabeel Akhtar, Marzieh Babaeianjelodarx, Ibrahim Matta, Yaoqing Liux <br>
   **Using a Control Theoretic Load Balancer for Efficient Attack Traffic Analysis and Defense on Virtualized Infrastructure** <br>
   *The 2nd Symposium on the COntrol of NEtwork Systems (SCONES 2017), associated with IEEE Transactions on Control of Network Systems (TCNS), Boston, USA, Oct. 2017* <br>
