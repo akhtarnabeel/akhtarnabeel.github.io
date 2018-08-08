@@ -12,7 +12,7 @@ comments: false
 ### @<a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar Profile [link]</a> ###
 
 ---
-### Conference and Journal Papers
+### Selected Conference and Journal Papers
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
