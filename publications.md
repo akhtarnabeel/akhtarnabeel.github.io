@@ -25,6 +25,11 @@ comments: false
     [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
 --->
 
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
+  **EL-SEC** <br>
+  *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
+    [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
+
 - Zhongliang Zhao, Eryk Jerzy Schiller, Eirini Kalogeiton, Torsten Braun, Stiller Burkhard, Mevlut Turker Garip, Joshua Joy, Mario Gerla, Nabeel Akhtar, Ibrahim Matta <br>
   **Autonomic Communications in Software-Driven Networks**  <br>
   *IEEE Journal on Selected Areas in Communications (JSAC), 2017* <br>
