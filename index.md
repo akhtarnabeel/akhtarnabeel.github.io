@@ -16,6 +16,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **September 12, 2018:** I will be in Technical Program Committee (TPC) for IEEE Conference on Network Softwarization (**NetSoft**) 2019, Paris, France.
+
 - **June 28, 2018:** I will be presenting our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
 
 - **June 25, 2018:** I will be chairing "Design, Management and Orchestration of Edge Computing and Tactile Internet" session at **[Smart network Technologies and Edge computing for the Tactile Internet (STET 2018)](http://www.cs.slu.edu/stet2018/)**, Montreal, Canada.
