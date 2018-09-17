@@ -93,6 +93,9 @@ Lahore University of Management Science (LUMS), Lahore, Pakistan \\
 
 ## Other Services ##
 
+#### As Technical Program Committe member
+- IEEE Conference on Network Softwarization (NetSoft) 2019
+
 #### As Reviewer for:
 - Conference IFIP Wired/Wireless Internet Communications (IFIP WWIC) 2018
 - Journal IEEE Transactions on Intelligent Transportation Systems (ITS) 2018
