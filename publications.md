@@ -19,14 +19,8 @@ comments: false
   *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., June 2018* <br>
   [\[PDF\]](../papers/NETSOFT2018.pdf)[\[Bibtex\]](../papers/bib/NETSOFT2018.txt)
 
-<!--- - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
-  **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
-  *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
-    [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
---->
-
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
-  **EL-SEC** <br>
+  **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
     [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
 
@@ -34,13 +28,11 @@ comments: false
   **Autonomic Communications in Software-Driven Networks**  <br>
   *IEEE Journal on Selected Areas in Communications (JSAC), 2017* <br>
   [\[PDF\]](../papers/JSAC2017.pdf)[\[Bibtex\]](../papers/bib/JSAC2017.txt)
-  
 
 - Nabeel Akhtar, Ibrahim Matta and Yuefeng Wang <br>
   **Managing NFV using SDN and Control Theory** <br>
   *IEEE/IFIP NOMS International Workshop on Management of the Future Internet (ManFI) 2016, Istanbul, Turkey, April 2016* <br>
   [\[PDF\]](../papers/NOMS2016.pdf) [\[Bibtex\]](/papers/bib/NOMS2016.txt) 
-
 
 - Yuefeng Wang, Ibrahim Matta and Nabeel Akhtar <br>
   **Application-Driven Network Management with ProtoRINA** <br>
@@ -57,18 +49,15 @@ comments: false
   *IEEE ICNP International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), Raleigh, NC, USA. October 2014* <br>
   [\[PDF\]](../papers/ICNP-2014.pdf) [\[Bibtex\]](/papers/bib/ICNP-2014.txt)
 
-
 - Yuefeng Wang, Ibrahim Matta and Nabeel Akhtar <br>
   **Experimenting with Routing Policies Using ProtoRINA over GENI**  <br>
   *The Third GENI Research and Educational Experiment Workshop (GREE2014), March 19-20, 2014, Atlanta, Georgia* <br>
   [\[PDF\]](../papers/GREE2014.pdf) [\[Bibtex\]](/papers/bib/GREE2014.txt)
 
-
 - Nabeel Akhtar, Oznur Ozkasap, and Sinem Coleri Ergen <br>
   **Analysis of VANET topology characteristics via realistic vehicle mobility and communication channel models**  <br>
   *IEEE Wireless Communication and Networking Conference (WCNC 2013), Shanghai, China, April 2013* <br>
   [\[PDF\]](../papers/WCNC2013.pdf) [\[Bibtex\]](/papers/bib/WCNC2013.txt)
-
 
 - Nabeel Akhtar, Sinem Coleri Ergen, and Oznur Ozkasap <br>
   **Analysis of Distributed Algorithms for Density Estimation in VANETs**  <br>
@@ -78,11 +67,11 @@ comments: false
 --- 
 ### Demo and Posters
 
-<!--- - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **Demo Abstract: EL-SEC:ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE International Conference on Computer Communications (INFOCOM), 2018* <br>
   [\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
---->
+
 - Nabeel Akhtar, Marzieh Babaeianjelodarx, Ibrahim Matta, Yaoqing Liux <br>
   **Using a Control Theoretic Load Balancer for Efficient Attack Traffic Analysis and Defense on Virtualized Infrastructure** <br>
   *The 2nd Symposium on the COntrol of NEtwork Systems (SCONES 2017), associated with IEEE Transactions on Control of Network Systems (TCNS), Boston, USA, Oct. 2017* <br>
