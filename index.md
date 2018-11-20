@@ -16,7 +16,9 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
-- **September 12, 2018:** In Technical Program Committee (TPC) for IEEE Conference on Network Softwarization (**NetSoft**) 2019, Paris, France.
+- **November 19, 2018:** Accepted **Publicity Chair** position for IEEE International Workshop on Computer and Networking Experimental Research using Testbeds (**CNERT**), in conjunction with **IEEE INFOCOM 2019**, Paris, France.
+
+- **September 12, 2018:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**) 2019, Paris, France.
 
 - **June 28, 2018:** I will be presenting our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
 
