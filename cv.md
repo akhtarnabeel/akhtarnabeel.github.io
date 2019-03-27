@@ -9,7 +9,7 @@ comments: false
 
 ---
 
-### [CV in PDF (last updated February 2019)[link]](../papers/cv.pdf)
+### [CV in PDF (last updated March 2019)[link]](../papers/cv.pdf)
 
 ---
 
