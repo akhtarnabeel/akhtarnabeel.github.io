@@ -70,7 +70,7 @@ comments: false
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **Demo Abstract: EL-SEC:ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE International Conference on Computer Communications (INFOCOM), 2018* <br>
-  [\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
+  [\[ProjectPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
 
 - Nabeel Akhtar, Marzieh Babaeianjelodarx, Ibrahim Matta, Yaoqing Liux <br>
   **Using a Control Theoretic Load Balancer for Efficient Attack Traffic Analysis and Defense on Virtualized Infrastructure** <br>
