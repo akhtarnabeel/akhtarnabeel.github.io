@@ -32,6 +32,7 @@ Lahore University of Management Science (LUMS), Lahore, Pakistan \\
 	- Advisor: Prof. Fareed Zaffer
 
 ---
+<!---
 ## Work Experience
 
 - **Research Intern: Akamai Technologies**     – Summer 2016 
@@ -118,4 +119,4 @@ Lahore University of Management Science (LUMS), Lahore, Pakistan \\
 
 #### Others:
 - **October 28, 2016:** GENI [Webinar](http://www.cs.unc.edu/Research/geni/geniEdu/v06-VNF-SDN-Ctl.html) on "Managing a Virtual Network Function using SDN and Control Theory"
-
+--->
