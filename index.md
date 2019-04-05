@@ -1,6 +1,6 @@
 ---
 layout: home3
-title: Me in a Nutshell
+title: Nabeel Akhtar
 description: "Nabeel Akhtar's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
