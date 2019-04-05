@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: My Biography
+title: 
 tags: [about]
 modified: 8-7-2014
 comments: false

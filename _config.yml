@@ -8,12 +8,12 @@ disqus_shortname: nabeelakhtar
 
 # Owner/author information
 owner:
-  name:           Nabeel Akhtar
+  name:           Ph.D. Candidate
   avatar:         nabeel.jpeg
-  bio:            I'm from a small town near Multan, Pakistan. Currently doing PhD at Boston University, USA. Passionate about computer networks, technology, traveling, and mountains.
+#  bio:            I'm from a small town near Multan, Pakistan. Currently doing PhD at Boston University, USA. Passionate about computer networks, technology, traveling, and mountains.
+  bio:            Computer Science Department, Boston University
   email:          nabeel@bu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: nabeelakht
   linkedin: akhtarnabeel
   google_scholar: EoZJQVYAAAAJ
   github: akhtarnabeel
@@ -30,8 +30,8 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Research
-    url: /research/
+  - title: CV
+    url: /papers/cv.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
