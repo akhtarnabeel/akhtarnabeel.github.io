@@ -16,7 +16,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
-- **July 21, 2019:** In **Technical Program Committee (TPC)** for IEEE **NETSOFT** 2020.
+- **July 21, 2019:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**) 2020, Budapest, Hungary.
 
 - **April 5, 2019:** In **Technical Program Committee (TPC)** for IEEE **MENACOMM** 2019.
 
