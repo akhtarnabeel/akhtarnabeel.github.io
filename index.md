@@ -16,6 +16,10 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **August 6, 2019:** I successfully defended my PhD thesis. I am excited about the next step!
+
+- **August 6, 2019:** I am in the **Technical Program Committee (TPC)** for Midscale Education and Research Infrastructure and Tools **(MERIT)** workshop, co-hosted with IEEE International Conference on Network Protocols (ICNP 2019), Chicago, Illinois, USA, October 7, 2019  
+
 - **July 21, 2019:** In **Technical Program Committee (TPC)** for IEEE/IFIP Network Operations and Management Symposium (**NOMS**) 2020, Budapest, Hungary.
 
 - **April 5, 2019:** In **Technical Program Committee (TPC)** for IEEE **MENACOMM** 2019.
