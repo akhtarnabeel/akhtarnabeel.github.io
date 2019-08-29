@@ -16,6 +16,10 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **August 29, 2019:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**), Ghent, Belgium, 2020
+
+- **August 25, 2019:** I am in the **Technical Program Committee (TPC)** for International Conference on Control, Automation and Information Sciences **(ICCAIS)**, Paris, France, January 23 - 24, 2020
+
 - **August 6, 2019:** I successfully defended my PhD thesis. I am excited about the next step!
 
 - **August 6, 2019:** I am in the **Technical Program Committee (TPC)** for Midscale Education and Research Infrastructure and Tools **(MERIT)** workshop, co-hosted with IEEE International Conference on Network Protocols (ICNP 2019), Chicago, Illinois, USA, October 7, 2019  
