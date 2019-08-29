@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-*I successfully defended my PhD dissertation. I am excited about the next step!*
+**I successfully defended my PhD dissertation. I am excited about the next step!**
 
 I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu). I joined CS@BU in Fall’13. 
 <br />
