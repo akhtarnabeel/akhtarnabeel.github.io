@@ -18,6 +18,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **November 20, 2019:** In **Technical Program Committee (TPC)** for The Third International Workshop on Intelligent Transportation and Connected Vehicles Technologies (**ITCVT 2020**), Budapest, Hungary, 2020
+
 - **August 29, 2019:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**), Ghent, Belgium, 2020
 
 - **August 25, 2019:** I am in the **Technical Program Committee (TPC)** for International Conference on Control, Automation and Information Sciences **(ICCAIS)**, Paris, France, January 23 - 24, 2020
