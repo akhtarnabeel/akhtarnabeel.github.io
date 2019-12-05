@@ -14,6 +14,12 @@ comments: false
 ---
 ### Selected Conference and Journal Papers
 
+Our paper **COSE: Configuring Serverless Functions using Statistical Learning** got accepted at IEEE International Conference on Computer Communications (**IEEE INFOCOM 2020**), Beijing, China.
+
+- Nabeel Akhtar, Ali Raza, Vatche Ishakian and Ibrahim Matta<br>
+**COSE: Configuring Serverless Functions using Statistical Learning**
+To appear at *IEEE International Conference on Computer Communications (INFOCOM), 2020, Beijing, China, April 2020*
+
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
   *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., June 2018* <br>
