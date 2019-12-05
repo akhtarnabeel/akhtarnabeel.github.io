@@ -18,6 +18,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **December 4, 2019:** Our paper **COSE: Configuring Serverless Functions using Statistical Learning** got accepted at IEEE International Conference on Computer Communications (**IEEE INFOCOM 2020**), Beijing, China. 
+
 - **November 20, 2019:** In **Technical Program Committee (TPC)** for The Third International Workshop on Intelligent Transportation and Connected Vehicles Technologies (**ITCVT 2020**), Budapest, Hungary, 2020
 
 - **August 29, 2019:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**), Ghent, Belgium, 2020
