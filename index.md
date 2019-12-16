@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-**I successfully defended my PhD dissertation, and I started working at Akamai Technologies. I am excited about it!**
+**I successfully defended my PhD dissertation, and joined Akamai Technologies. I am excited!**
 
 I completed my PhD at the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu).
 <br />
