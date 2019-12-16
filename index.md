@@ -20,7 +20,11 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **December 4, 2019:** Our paper **COSE: Configuring Serverless Functions using Statistical Learning** got accepted at IEEE International Conference on Computer Communications (**IEEE INFOCOM 2020**), Beijing, China. 
 
+- **November 2019:** Our NSF grant proposal got accepted. It is based on my Ph.D. thesis, and I helped PIs in drafting it. We got $500,000 grant. **HEECMA: A Hybrid Elastic Edge-Cloud Application Management Architecture**. Project site http://sites.bu.edu/heecma/
+
 - **November 20, 2019:** In **Technical Program Committee (TPC)** for The Third International Workshop on Intelligent Transportation and Connected Vehicles Technologies (**ITCVT 2020**), Budapest, Hungary, 2020
+
+- **October 21, 2019:** I started working at Akamai technologies in the Mapping and Network Control group. I am excited about it!
 
 - **August 29, 2019:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**), Ghent, Belgium, 2020
 
