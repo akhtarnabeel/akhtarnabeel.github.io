@@ -15,11 +15,11 @@ comments: false
 
 ### Education
 
-- **PhD Candidate**, Computer Science, 2013 - present \\
+- **Ph.D.**, Computer Science, 2013 - 2019 \\
 Boston University, Boston, USA
 	- Advisor: [Ibrahim Matta](http://sites.bu.edu/matta/)
-	- Current Position: Research and Teaching Assistant
-	- Research Area: Network Virtualization, Virtual Functions (VF), Cloud Computing, Future Internet Architectures 
+	- Research and Teaching Assistant
+	- Research Area: Network Optimization, Network Virtualization, Virtual Functions (VF), Cloud Computing, Future Internet Architectures 
 
 - **Master of Science**, Computer Science and Engineering, 2011-2013 \\
 Koc University, Istanbul. Turkey \\
