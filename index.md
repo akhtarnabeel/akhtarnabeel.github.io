@@ -7,11 +7,9 @@ image:
   feature: trees.jpg
 ---
 
-**I successfully defended my PhD dissertation, and joined Akamai Technologies. I am excited!**
+**I am working at [Akamai Technologies](https://www.akamai.com). I am also collaborating with [Prof. Ibrahim Matta](https://sites.bu.edu/matta/) at Boston Univeristy.  <br>
+Before joining Akamai, I receivd my Ph.D. from [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu).**
 
-I completed my PhD at the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu).
-<br />
-At BU, I worked with [Prof. Ibrahim Matta](http://sites.bu.edu/matta/). 
 My areas of interests are Computer Networks, Network Virtualization, Network Softwarization, Future Internet Architectures and Network Optimization.
 <br />
 <br />
