@@ -8,7 +8,7 @@ image:
 ---
 
 **I am working at [Akamai Technologies](https://www.akamai.com). <br><br>
-I am also collaborating with [Prof. Ibrahim Matta](https://sites.bu.edu/matta/) at Boston Univeristy.  <br>
+I am also collaborating with [Prof. Ibrahim Matta](https://sites.bu.edu/matta/) at Boston Univeristy.  <br><br>
 Before joining Akamai, I receivd my Ph.D. from [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu).**
 
 My areas of interests are Computer Networks, Network Virtualization, Network Softwarization, Future Internet Architectures and Network Optimization.
