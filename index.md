@@ -16,7 +16,11 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
-- **December 4, 2019:** Our paper **COSE: Configuring Serverless Functions using Statistical Learning** got accepted at IEEE International Conference on Computer Communications (**IEEE INFOCOM 2020**), Beijing, China. 
+- **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society **2020 Neal Shepherd Memorial Best Propagation Paper Award** recognizing the best propagation paper published in the IEEE Transactions on Vehicular Technology, for our paper:
+*Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation, IEEE Transactions on Vehicular Technology, Vol. 64, No. 1, pp. 248-262, January 2015.*
+Award consist of $1000 and certificate to be presented at the Awards Luncheon of the upcoming VTC2020-Fall Conference to be held in Victoria, Canada, October 4-7
+
+- **December 4, 2019:** Our paper **COSE: Configuring Serverless Functions using Statistical Learning** got accepted at IEEE International Conference on Computer Communications (**IEEE INFOCOM 2020**), Canada. 
 
 - **November 2019:** Our NSF grant proposal got accepted. It is based on my Ph.D. thesis, and I helped PIs in drafting it. We got $500,000 grant. **HEECMA: A Hybrid Elastic Edge-Cloud Application Management Architecture**. Project site http://sites.bu.edu/heecma/
 
