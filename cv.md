@@ -25,7 +25,7 @@ Boston University, Boston, USA
 Koc University, Istanbul. Turkey \\
 	- Advisors: [Prof. Oznur Ozkasap](http://home.ku.edu.tr/~oozkasap/index.htm) and [Prof. Sinem Coleri Ergen](http://home.ku.edu.tr/~sergen/)
 	- Thesis: Vehicle Mobility, Communication Channel Modeling and Traffic Density Estimation in VANETs [(pdf)](papers/MSc_FINAL.pdf)
-	- Research Project: Distributed Algorithms for VANETS, Channel Modeling for VANETS 
+	- Research Project: Distributed Algorithms for Vehicular Ad-Hoc Networks (VANETS), Channel Modeling for Vehicular Ad-Hoc Networks (VANETS) 
 
 - **Bachelor of Science**, Computer Science, 2007-2011 \\
 Lahore University of Management Science (LUMS), Lahore, Pakistan \\
