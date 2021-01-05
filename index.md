@@ -17,6 +17,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **Jan 5, 2021:** Our paper **Managing Chains of Application Functions over Multi-Technology Edge Networks** got accepted at IEEE Transactions on Network and Service Management (**IEEE TNSM 2021**).
+
 - **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`2020 Neal Shepherd Memorial Best Propagation Paper Award 2020`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) recognizing the best propagation paper for our paper:
 *Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation, IEEE Transactions on Vehicular Technology, Vol. 64, No. 1, pp. 248-262, January 2015.*
@@ -28,7 +30,7 @@ Award consist of $1000 and certificate to be presented at the Awards Luncheon of
 
 - **November 20, 2019:** In **Technical Program Committee (TPC)** for The Third International Workshop on Intelligent Transportation and Connected Vehicles Technologies (**ITCVT 2020**), Budapest, Hungary, 2020
 
-- **October 21, 2019:** I started working at Akamai technologies in the Mapping and Network Control group. I am excited about it!
+- **October 21, 2019:** I started working at Akamai technologies in the Mapping and Network Control group. I am excited!
 
 - **August 29, 2019:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**), Ghent, Belgium, 2020
 
