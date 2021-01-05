@@ -10,6 +10,7 @@ comments: false
 ---
 
 ### [CV in PDF [link]](../papers/cv.pdf)
+### @<a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar Profile [link]</a> ###
 
 ---
 
