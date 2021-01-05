@@ -14,6 +14,10 @@ comments: false
 ---
 ### Selected Conference and Journal Papers
 
+- Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
+  **Managing Chains of Application Functions over Multi-Technology Edge Networks** <br>
+  *IEEE Transactions on Network and Service Management (IEEE TNSM), 2021* <br>
+
 - Nabeel Akhtar, Ali Raza, Vatche Ishakian and Ibrahim Matta<br>
 **COSE: Configuring Serverless Functions using Statistical Learning**<br>
 *IEEE International Conference on Computer Communications (INFOCOM), 2020* <br>
