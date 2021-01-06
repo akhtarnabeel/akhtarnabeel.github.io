@@ -108,6 +108,11 @@ comments: false
 ---
 ### Technical Reports and Others
 
+- Nabeel Akhtar <br> 
+  **Vehicle Mobility, Communication Channel Modeling and Traffic Density Estimation in VANETs** <br> 
+  *PhD thesis, 2019* <br> 
+  [\[PDF\]](../papers/phd_thesis.pdf)[\[Bibtex\]](/papers/bib/phd_thesis.bib)
+  
 - Yuefeng Wang, Ibrahim Matta and Nabeel Akhtar <br> 
   **Application-Driven Network Management with ProtoRINA** <br> 
   Technical Report BUCS-TR-2015-003, Boston University, 2015 <br> 
