@@ -21,7 +21,7 @@ comments: false
 - Nabeel Akhtar, Ali Raza, Vatche Ishakian and Ibrahim Matta<br>
 **COSE: Configuring Serverless Functions using Statistical Learning**<br>
 *IEEE International Conference on Computer Communications (INFOCOM), 2020* <br>
-[\[PDF\]](../papers/COSE2020.pdf)[\[Bibtex\]](../papers/bib/COSE2020.txt)
+[\[PDF\]](/papers/COSE2020.pdf)[\[Bibtex\]](../papers/bib/COSE2020.txt)
   
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
