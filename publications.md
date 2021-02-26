@@ -17,6 +17,7 @@ comments: false
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Managing Chains of Application Functions over Multi-Technology Edge Networks** <br>
   *IEEE Transactions on Network and Service Management (IEEE TNSM), 2021* <br>
+[\[PDF\]](../papers/5G_journal.pdf)[\[Bibtex\]](../papers/bib/5G_journal.txt)
 
 - Nabeel Akhtar, Ali Raza, Vatche Ishakian and Ibrahim Matta<br>
 **COSE: Configuring Serverless Functions using Statistical Learning**<br>
