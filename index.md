@@ -19,8 +19,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **Jan 5, 2021:** Our paper **Managing Chains of Application Functions over Multi-Technology Edge Networks** got accepted at IEEE Transactions on Network and Service Management (**IEEE TNSM 2021**).
 
-- **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`2020 Neal Shepherd Memorial Best Propagation Paper Award 2020`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) recognizing the best propagation paper for our paper:
+- **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society **`2020 Neal Shepherd Memorial Best Propagation Paper Award 2020`** recognizing the best propagation paper for our paper:
 *Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation, IEEE Transactions on Vehicular Technology, Vol. 64, No. 1, pp. 248-262, January 2015.*
 Award consist of $1000 and certificate to be presented at the Awards Luncheon of the upcoming VTC2020-Fall Conference to be held in Victoria, Canada, October 4-7
 
@@ -54,7 +53,7 @@ Award consist of $1000 and certificate to be presented at the Awards Luncheon of
 
 - **May 14-18, 2018:** I am giving advance [NFV/SDN tutorial](http://voip.netlab.uky.edu/grw2018ky/summercamp.html) on GENI testbed at **GENI Regional Workshop (GRW 2018)** and Summer Camp at Lexington, Kentucky, USA.
 
-- **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRIZE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
+- **March 14, 2018:** We got **`FIRST PRIZE`** for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
 
 - **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM** International Workshop on Computer and Networking Experimental Research Using Testbeds (**CNERT**) 2018, Hawaii, USA. 
 
@@ -67,7 +66,7 @@ Award consist of $1000 and certificate to be presented at the Awards Luncheon of
 
 - **October 10, 2017:** Presenting our work **On Balancing Load to Quickly Detect and Stop Attack Traffic** (poster/demo) at IEEE Network Innovators Community Event Workshop (**IEEE NICE 2017**), co-located with IEEE ICNP 2017, Toronto, Canada
 
-- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**```Impact Factor 8.08```**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
+- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). **```Impact Factor 8.08```**
 
 
 
