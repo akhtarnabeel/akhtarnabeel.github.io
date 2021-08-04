@@ -14,6 +14,16 @@ comments: false
 ---
 ### Selected Conference and Journal Papers
 
+- Ali Raza, Ibrahim Matta, Nabeel Akhtar, Vasiliki Kalavari and Vatche Isahagian <br>
+  **Function-as-a-Service: From An Application Developer's Perspective** <br>
+  *Journal of Systems Research (JSys), 2021* <br>
+[\[PDF\]](../papers/JSYS.pdf)[\[Bibtex\]](../papers/bib/JSYS.txt)
+
+- Ali Raza, Zongshun Zhang, Nabeel Akhtar, Vatche Isahagian and Ibrahim Matta<br>
+  **LIBRA: An Economical Hybrid Approach for Cloud Application with Strict SLAs** <br>
+  *IEEE International Conference on Cloud Engineering (IEEE IC2E), 2021* <br>
+[\[PDF\]](../papers/LIBRA.pdf)[\[Bibtex\]](../papers/bib/LIBRA.txt)
+
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Managing Chains of Application Functions over Multi-Technology Edge Networks** <br>
   *IEEE Transactions on Network and Service Management (IEEE TNSM), 2021* <br>
