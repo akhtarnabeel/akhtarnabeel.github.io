@@ -17,6 +17,11 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **Aug 4, 2021:** Our paper **Function-as-a-Service: From An Application Developer's Perspective** got accepted at Journal of Systems Research (**JSys 2021**).
+
+- **Aug 3, 2021:** Our paper **LIBRA: An Economical Hybrid Approach for Cloud Application with Strict SLAs** got accepted at IEEE International Conference on
+Cloud Engineering (**IEEE IC2E 2021**).
+
 - **Jan 5, 2021:** Our paper **Managing Chains of Application Functions over Multi-Technology Edge Networks** got accepted at IEEE Transactions on Network and Service Management (**IEEE TNSM 2021**).
 
 - **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society **`2020 Neal Shepherd Memorial Best Propagation Paper Award 2020`** recognizing the best propagation paper for our paper:
