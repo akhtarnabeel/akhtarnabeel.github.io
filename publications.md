@@ -21,7 +21,7 @@ comments: false
 
 - Ali Raza, Zongshun Zhang, Nabeel Akhtar, Vatche Isahagian and Ibrahim Matta<br>
   **LIBRA: An Economical Hybrid Approach for Cloud Application with Strict SLAs** <br>
-  *IEEE International Conference on Cloud Engineering (IEEE IC2E), 2021* <br>
+  *IEEE International Conference on Cloud Engineering (IEEE IC2E), 2021* ***BEST PAPER AWARD***<br>
 [\[PDF\]](../papers/LIBRA.pdf)[\[Bibtex\]](../papers/bib/LIBRA.txt)
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
