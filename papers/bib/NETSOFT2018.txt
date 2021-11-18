@@ -1,12 +1,9 @@
-@INPROCEEDINGS{NETSOFT2018,
-    AUTHOR="Nabeel Akhtar and Ibrahim Matta and Ali Raza and Leonardo Goratti and Torsten Braun and Flavio Esposito",
-    TITLE="Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks",
-    BOOKTITLE="NetSoft 2018 () ",
-    ADDRESS="",
-    DAYS="25-29",
-    MONTH="jun",
-    YEAR="2018",
-    ABSTRACT={Next-generation mobile networks (5G and beyond) are expected to provide higher data rates and ultra-low latency in support of demanding applications, such as virtual and augmented reality, robots and drones, etc. To meet these stringent requirements, edge computing constitutes a central piece of the solution architecture wherein functional components of an application can be deployed over the edge network so as to reduce bandwidth demand over the core network while providing ultra-low latency communication to users. In this paper, we investigate the joint optimal placement of virtual service chains consisting of virtual application functions (components) and the steering of traffic through them, over a 5G multi-technology edge network model consisting of both Ethernet and mmWave links. This problem is NP-hard. We provide a comprehensive ?microscopic" binary integer program to model the system, along with a heuristic that is one order of magnitude faster than solving the corresponding binary integer program. Extensive evaluations demonstrate the benefits of managing virtual service chains (by distributing them over the edge network) compared to a baseline ?middlebox" approach in terms of overall admissible virtual capacity. We observe significant gains when deploying mmWave links that complement the Ethernet physical infrastructure. Moreover, most of the gains are attributed to only 30% of these mmWave links.},
-    KEYWORDS="Programmable SDN and NFV; Softwarized cloud, fog, and edge infrastructures; Abstractions and virtualization of resources, services, and functions; Service function chaining", 
-    URL="http://XXXXX/179882.pdf"
-} 
+@INPROCEEDINGS{8460097,
+  author={Akhtar, Nabeel and Matta, Ibrahim and Raza, Ali and Goratti, Leonardo and Braun, Torsten and Esposito, Flavio},
+  booktitle={2018 4th IEEE Conference on Network Softwarization and Workshops (NetSoft)}, 
+  title={Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={114-122},
+  doi={10.1109/NETSOFT.2018.8460097}}
