@@ -1,6 +1,9 @@
-@INPROCEEDINGS{ELSEC, 
-author={N. Akhtar and I. Matta and A. Raza and Y. Wang}, 
-booktitle={2018 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
-title={{EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure}}, 
-year={2018}, 
-month={April},}
+@INPROCEEDINGS{8407019,
+  author={Akhtar, Nabeel and Matta, Ibrahim and Raza, Ali and Wang, Yuefeng},
+  booktitle={IEEE INFOCOM 2018 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)}, 
+  title={EL-SEC: ELastic management of security applications on virtualized infrastructure}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={778-783},
+  doi={10.1109/INFCOMW.2018.8407019}}
