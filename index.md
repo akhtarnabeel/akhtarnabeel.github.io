@@ -19,7 +19,7 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 - **Oct, 2021:** Serving as guest editor for [**Computer Communications**](https://www.journals.elsevier.com/computer-communications) journal special issue on [**Edge Intelligence for 6G Networks**](https://www.journals.elsevier.com/computer-communications/call-for-papers/special-issue-on-edge-intelligence-for-6g-networks), 2021 
 
-- **Oct, 2021:** We got the  **`Best Paper Award - Research Track 2021`** at IEEE International Conference on Cloud Engineering (**IEEE IC2E 2021**). Checkout the [ELSEC paper here!](https://akhtarnabeel.github.io/papers/LIBRA.pdf)
+- **Oct, 2021:** We got the  :trophy:**`Best Paper Award - Research Track 2021`** at IEEE International Conference on Cloud Engineering (**IEEE IC2E 2021**). Checkout the [ELSEC paper here!](https://akhtarnabeel.github.io/papers/LIBRA.pdf)
 
 - **Aug 4, 2021:** Our paper **Function-as-a-Service: From An Application Developer's Perspective** got accepted at Journal of Systems Research (**JSys 2021**).
 
@@ -28,13 +28,13 @@ Cloud Engineering (**IEEE IC2E 2021**).
 
 - **Jan 5, 2021:** Our paper **Managing Chains of Application Functions over Multi-Technology Edge Networks** got accepted at IEEE Transactions on Network and Service Management (**IEEE TNSM 2021**).
 
-- **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society **`2020 Neal Shepherd Memorial Best Propagation Paper Award 2020`** recognizing the best propagation paper for our paper:
+- **June 14, 2020:** Selected to receive the IEEE Vehicular Technology Society :trophy: **`2020 Neal Shepherd Memorial Best Propagation Paper Award 2020`** recognizing the best propagation paper for our paper:
 *Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation, IEEE Transactions on Vehicular Technology, Vol. 64, No. 1, pp. 248-262, January 2015.*
 Award consist of $1000 and certificate to be presented at the Awards Luncheon of the upcoming VTC2020-Fall Conference to be held in Victoria, Canada, October 4-7
 
 - **December 4, 2019:** Our paper **COSE: Configuring Serverless Functions using Statistical Learning** got accepted at IEEE International Conference on Computer Communications (**IEEE INFOCOM 2020**), Canada. 
 
-- **November 2019:** Our NSF grant proposal got accepted. It is based on my Ph.D. thesis, and I helped PIs in drafting it. We got $500,000 grant. **HEECMA: A Hybrid Elastic Edge-Cloud Application Management Architecture**. Project site http://sites.bu.edu/heecma/
+- **November 2019:** Our NSF grant proposal got accepted. It is based on my Ph.D. thesis, and I helped PIs in drafting it. We got $500,000 grant. :trophy: **HEECMA: A Hybrid Elastic Edge-Cloud Application Management Architecture**. Project site http://sites.bu.edu/heecma/
 
 - **November 20, 2019:** In **Technical Program Committee (TPC)** for The Third International Workshop on Intelligent Transportation and Connected Vehicles Technologies (**ITCVT 2020**), Budapest, Hungary, 2020
 
@@ -62,7 +62,7 @@ Award consist of $1000 and certificate to be presented at the Awards Luncheon of
 
 - **May 14-18, 2018:** I am giving advance [NFV/SDN tutorial](http://voip.netlab.uky.edu/grw2018ky/summercamp.html) on GENI testbed at **GENI Regional Workshop (GRW 2018)** and Summer Camp at Lexington, Kentucky, USA.
 
-- **March 14, 2018:** We got **`FIRST PRIZE`** for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
+- **March 14, 2018:** We got :trophy:**`FIRST PRIZE`** for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
 
 - **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM** International Workshop on Computer and Networking Experimental Research Using Testbeds (**CNERT**) 2018, Hawaii, USA. 
 
