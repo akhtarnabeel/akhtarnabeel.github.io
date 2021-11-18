@@ -22,7 +22,7 @@ comments: false
 - Ali Raza, Zongshun Zhang, Nabeel Akhtar, Vatche Isahagian and Ibrahim Matta<br>
   **LIBRA: An Economical Hybrid Approach for Cloud Application with Strict SLAs** <br>
   *IEEE International Conference on Cloud Engineering (IEEE IC2E), 2021* <br>
-  **:1st_place_medal:``[BEST PAPER AWARD]``**<br>
+  **:1st_place_medal:``[BEST PAPER AWARD]``:1st_place_medal:**<br>
 [\[PDF\]](../papers/LIBRA.pdf)[\[Bibtex\]](../papers/bib/LIBRA.txt)
 
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
@@ -43,7 +43,7 @@ comments: false
 - Nabeel Akhtar, Ibrahim Matta, Ali Raza and Yuefeng Wang <br>
   **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** <br>
   *IEEE INFOCOM International Workshop on Computer and Networking Experimental Research Using Testbeds (CNERT), 2018, Honolulu, Hawaii, USA, April 2018* <br>
-  ***`[BEST PROJECT AWARD]`***<br>
+  ***:1st_place_medal:`[BEST PROJECT AWARD]`:1st_place_medal:***<br>
     [\[PDF\]](../papers/ELSEC.pdf)[\[Bibtex\]](../papers/bib/ELSEC.txt)[\[ProjetPage\]](https://github.com/akhtarnabeel/ELSEC) <br>
 
 - Zhongliang Zhao, Eryk Jerzy Schiller, Eirini Kalogeiton, Torsten Braun, Stiller Burkhard, Mevlut Turker Garip, Joshua Joy, Mario Gerla, Nabeel Akhtar, Ibrahim Matta <br>
@@ -64,7 +64,7 @@ comments: false
 - Nabeel Akhtar, Sinem Coleri Ergen, and Oznur Ozkasap <br>
   **Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation** <br>
   *IEEE Transactions on Vehicular Technology (TVT), vol. 64, no. 1, pp. 248-262, January 2015* <br>
-  ***`[IEEE Vehicular Technology Society 2020 Neal Shepherd Memorial Best Propagation Paper Award]`***<br>
+  ***:1st_place_medal:`[IEEE Vehicular Technology Society 2020 Neal Shepherd Memorial Best Propagation Paper Award]`:1st_place_medal:***<br>
   [\[PDF\]](../papers/TVT.pdf) [\[Bibtex\]](/papers/bib/TVT.txt)
 
 - Yuefeng Wang, Nabeel Akhtar and Ibrahim Matta <br>
