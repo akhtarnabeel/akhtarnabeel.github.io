@@ -75,7 +75,7 @@ comments: false
   [\[PDF\]](../papers/GREE2014.pdf) [\[Bibtex\]](/papers/bib/GREE2014.txt)
 
 - Nabeel Akhtar, Oznur Ozkasap, and Sinem Coleri Ergen <br>
-  **Analysis of VANET topology characteristics via realistic vehicle mobility and communication channel models**  <br>
+  **VANET topology characteristics under realistic mobility and channel models**  <br>
   *IEEE Wireless Communication and Networking Conference (WCNC 2013), Shanghai, China, April 2013* <br>
   [\[PDF\]](../papers/WCNC2013.pdf) [\[Bibtex\]](/papers/bib/WCNC2013.txt)
 
