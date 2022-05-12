@@ -65,7 +65,7 @@ comments: false
   **Vehicle Mobility and Communication Channel Models for Realistic and Efficient Highway VANET Simulation** <br>
   *IEEE Transactions on Vehicular Technology (TVT), vol. 64, no. 1, pp. 248-262, January 2015* <br>
   ***:trophy:`[IEEE Vehicular Technology Society 2020 Neal Shepherd Memorial Best Propagation Paper Award]`:1st_place_medal:***<br>
-  [\[PDF\]](../papers/TVT.pdf) [\[Bibtex\]](/papers/bib/TVT.txt)
+  [\[PDF\]](../papers/TVT.pdf) [\[Bibtex\]](/papers/bib/TVT.txt) [\[Mobility Dataset]](https://github.com/akhtarnabeel/VANETS_Mobility_Dataset)
 
 - Yuefeng Wang, Nabeel Akhtar and Ibrahim Matta <br>
   **Programming Routing Policies for Video Traffic**  <br>
