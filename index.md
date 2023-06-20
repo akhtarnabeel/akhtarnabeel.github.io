@@ -17,6 +17,8 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 ## Latest News ##
 
+- **March, 2023:** Our paper **Configuration and Placement of Serverless Applications using Statistical Learning** got accepted at IEEE Transactions on Network and Service Management (**TNSM 2023**).
+
 - **Oct, 2021:** Serving as guest editor for [**Computer Communications**](https://www.journals.elsevier.com/computer-communications) journal special issue on [**Edge Intelligence for 6G Networks**](https://www.journals.elsevier.com/computer-communications/call-for-papers/special-issue-on-edge-intelligence-for-6g-networks), 2021 
 
 - **Oct, 2021:** We got the  :trophy:**`Best Paper Award - Research Track 2021`** at IEEE International Conference on Cloud Engineering (**IEEE IC2E 2021**). Checkout the [ELSEC paper here!](https://akhtarnabeel.github.io/papers/LIBRA.pdf)
