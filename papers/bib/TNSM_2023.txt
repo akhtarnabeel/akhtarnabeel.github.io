@@ -1,0 +1,9 @@
+@ARTICLE{10063937,
+  author={Raza, Ali and Akhtar, Nabeel and Isahagian, Vatche and Matta, Ibrahim and Huang, Lei},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={Configuration and Placement of Serverless Applications using Statistical Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TNSM.2023.3254437}}
