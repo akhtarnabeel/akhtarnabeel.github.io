@@ -14,6 +14,11 @@ comments: false
 ---
 ### Selected Conference and Journal Papers
 
+- Ali Raza, Nabeel Akhtar, Vatche Isahagian, Ibrahim Matta and Lei Huang <br>
+  **Configuration and Placement of Serverless Applications using Statistical Learning** <br>
+  *IEEE Transactions on Network and Service Management (TNSM), 2023* <br>
+[\[PDF\]](../papers/TNSM_2023.pdf)[\[Bibtex\]](../papers/bib/TNSM_2023.txt)
+
 - Ali Raza, Ibrahim Matta, Nabeel Akhtar, Vasiliki Kalavari and Vatche Isahagian <br>
   **Function-as-a-Service: From An Application Developer's Perspective** <br>
   *Journal of Systems Research (JSys), 2021* <br>
