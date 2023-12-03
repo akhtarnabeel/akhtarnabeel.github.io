@@ -1,9 +1,0 @@
-@INPROCEEDINGS{8460097,
-  author={Akhtar, Nabeel and Matta, Ibrahim and Raza, Ali and Goratti, Leonardo and Braun, Torsten and Esposito, Flavio},
-  booktitle={2018 4th IEEE Conference on Network Softwarization and Workshops (NetSoft)}, 
-  title={Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks}, 
-  year={2018},
-  volume={},
-  number={},
-  pages={114-122},
-  doi={10.1109/NETSOFT.2018.8460097}}
