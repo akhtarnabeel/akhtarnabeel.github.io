@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7502972,
+  author={Akhtar, Nabeel and Matta, Ibrahim and Wang, Yuefeng},
+  booktitle={NOMS 2016 - 2016 IEEE/IFIP Network Operations and Management Symposium}, 
+  title={Managing NFV using SDN and control theory}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={1113-1118},
+  doi={10.1109/NOMS.2016.7502972}}
