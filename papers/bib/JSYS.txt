@@ -1,0 +1,9 @@
+a@inproceedings{
+raza2021sok,
+title={SoK: Function-as-a-Service: From An Application Developer's Perspective},
+author={Ali Raza and Abraham Matta and Nabeel Akhtar and Vasiliki Kalavri and Vatche Isahagian},
+booktitle={Journal of Systems Research - Mar 2021},
+year={2021},
+url={https://openreview.net/forum?id=VdWaMgaTKtX}
+}
+

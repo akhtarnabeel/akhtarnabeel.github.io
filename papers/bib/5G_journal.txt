@@ -1,0 +1,11 @@
+@ARTICLE{5g_journal,
+  author={N. {Akhtar} and I. {Matta} and A. {Raza} and L. {Goratti} and T. {Braun} and F. {Esposito}},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={Managing Chains of Application Functions over Multi-Technology Edge Networks}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TNSM.2021.3050009},
+  ISSN={1932-4537},
+  month={},}
